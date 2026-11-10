@@ -82,8 +82,8 @@ Xscriptor palette ecosystem.
 the app if missing and deploy the theme packs from the repo:
 
 ```powershell
-irm https://raw.githubusercontent.com/xscriptor-colors/windows/main/windows/yasb/install.ps1 | iex                         # YASB only
-irm https://raw.githubusercontent.com/xscriptor-colors/windows/main/windows/zebar/install.ps1 | iex                        # Zebar only
+irm https://raw.githubusercontent.com/xscriptor-colors/windows/main/yasb/install.ps1 | iex                         # YASB only
+irm https://raw.githubusercontent.com/xscriptor-colors/windows/main/zebar/install.ps1 | iex                        # Zebar only
 ```
 
 **Or clone and deploy locally**:

@@ -32,7 +32,7 @@ Requires [WebView2](https://developer.microsoft.com/en-us/microsoft-edge/webview
 **Remote** (no git needed — installs Zebar if missing, then deploys):
 
 ```powershell
-irm https://raw.githubusercontent.com/xscriptor-colors/windows/main/windows/zebar/install.ps1 | iex
+irm https://raw.githubusercontent.com/xscriptor-colors/windows/main/zebar/install.ps1 | iex
 ```
 
 **Or locally from this folder:**
