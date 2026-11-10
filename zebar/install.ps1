@@ -6,7 +6,7 @@
     Zebar widget packs remotely without git or manual copying.
 
     Remote one-liner (PowerShell 5.1+):
-        irm https://raw.githubusercontent.com/xscriptor-colors/windows/main/windows/zebar/install.ps1 | iex
+        irm https://raw.githubusercontent.com/xscriptor-colors/windows/main/zebar/install.ps1 | iex
 
     Or from a saved file:
         powershell -ExecutionPolicy Bypass -File install.ps1

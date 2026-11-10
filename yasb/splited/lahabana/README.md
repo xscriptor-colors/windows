@@ -39,7 +39,7 @@ lahabana/
 Styles the system (taskbar, start menu, notification center, file explorer,
 settings, borders, corners and menus) with the Lahabana palette.
 
-→ [View the installation guide](./windhawk/setup.md)
+→ [View the installation guide](../../../windhawk/README.md)
 
 ## YASB
 

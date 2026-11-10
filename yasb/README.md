@@ -43,7 +43,7 @@ Requires [YASB](https://github.com/amnweb/yasb) (`winget install AmN.yasb`) and 
 **Remote** (no git needed — installs YASB if missing, then deploys):
 
 ```powershell
-irm https://raw.githubusercontent.com/xscriptor-colors/windows/main/windows/yasb/install.ps1 | iex
+irm https://raw.githubusercontent.com/xscriptor-colors/windows/main/yasb/install.ps1 | iex
 ```
 
 **Or locally from this folder:**
